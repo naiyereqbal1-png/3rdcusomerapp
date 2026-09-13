@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered shopping bag and clothes hanger vector icon (66dp safe zone) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,24 c-2,0 -4,1.8 -4,4 c0,1.2 0.5,2.3 1.4,3 L34,39 c-1.5,0.7 -2.4,2.2 -2.4,4 l0,38 c0,2.2 1.8,4 4,4 l36,0 c2.2,0 4,-1.8 4,-4 l0,-38 c0,-1.8 -0.9,-3.3 -2.4,-4 L56.6,31 c0.9,-0.7 1.4,-1.8 1.4,-3 c0,-2.2 -2,-4 -4,-4 z M54,28 c0.8,0 1.5,0.7 1.5,1.5 c0,0.8 -0.7,1.5 -1.5,1.5 c-0.8,0 -1.5,-0.7 -1.5,-1.5 c0,-0.8 0.7,-1.5 1.5,-1.5 z M54,34.5 L67.8,41 L40.2,41 Z M36,44 l36,0 l0,37 l-36,0 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M44,52 h20 v4 h-20 z M46,60 h16 v4 h-16 z M49,68 h10 v4 h-10 z" />
+</vector>

@@ -1,0 +1,8 @@
+{
+  "name": "tryathome-android",
+  "version": "1.0.0",
+  "description": "Android application for TRYatHOME",
+  "scripts": {
+    "build": "echo 'Android assembly redirect'"
+  }
+}
